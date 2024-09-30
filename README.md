@@ -56,6 +56,8 @@
 
 <h3>My GitHub contributions summary</h3>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanielLima52&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=daniel1lima&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
