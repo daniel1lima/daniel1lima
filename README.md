@@ -52,6 +52,15 @@
   <img src="https://img.shields.io/badge/-ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" />
 </div>
 
+## 💼 Where I Work
+<a href="https://innerai.com" target="_blank">
+  <img src="https://img.shields.io/badge/Innerai-00AEEF?style=for-the-badge" alt="Innerai" />
+</a>
+
+I'm currently working at [Inner AI](https://innerai.com), where we develop cutting-edge AI solutions to make businesses smarter and more efficient.
+
+![SCR-20240930-nzkk](https://github.com/user-attachments/assets/a11b8785-f623-4fb9-b3fe-83ce2cb9a717)
+
 
 
 <h3>My GitHub contributions summary</h3>
