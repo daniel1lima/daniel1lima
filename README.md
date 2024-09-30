@@ -59,7 +59,7 @@
 
 I'm currently working at [Inner AI](https://innerai.com), where we develop cutting-edge AI solutions to make businesses smarter and more efficient.
 
-![SCR-20240930-nzkk](https://github.com/user-attachments/assets/a11b8785-f623-4fb9-b3fe-83ce2cb9a717)
+![gif inner](https://github.com/user-attachments/assets/bb809434-54eb-4bd1-bc00-8c6a3aa24ed1)
 
 
 
