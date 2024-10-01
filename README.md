@@ -66,6 +66,8 @@ I'm currently working at [Inner AI](https://innerai.com), where we develop cutti
   <img src="https://img.shields.io/badge/Opinio-00AEEF?style=for-the-badge" alt="Opinio" />
 </a>
 
+I'm building [Opinio](https://www.opinio.cc/) - A platform that joins review information from various sources into actionable insights.
+
 ![opinio](https://github.com/user-attachments/assets/ec9e1ab3-37eb-4629-99b2-d1dfeec81a98)
 
 <div>
