@@ -61,12 +61,14 @@ I'm currently working at [Inner AI](https://innerai.com), where we develop cutti
 
 ![gif inner](https://github.com/user-attachments/assets/bb809434-54eb-4bd1-bc00-8c6a3aa24ed1)
 
+## 🏗️ What I'm Building 
+<a href="https://www.opinio.cc/" target="_blank">
+  <img src="https://img.shields.io/badge/Opinio-00AEEF?style=for-the-badge" alt="Opinio" />
+</a>
 
+![opinio](https://github.com/user-attachments/assets/ec9e1ab3-37eb-4629-99b2-d1dfeec81a98)
 
-<h3>My GitHub contributions summary</h3>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DanielLima52&theme=modern-lilac&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=daniel1lima&theme=modern-lilac&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
-
+<div>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daniel1lima&theme=modern-lilac&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DanielLima52&theme=modern-lilac&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+</div>
