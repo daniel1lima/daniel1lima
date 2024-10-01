@@ -65,8 +65,8 @@ I'm currently working at [Inner AI](https://innerai.com), where we develop cutti
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanielLima52&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DanielLima52&theme=modern-lilac&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=daniel1lima&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=daniel1lima&theme=modern-lilac&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
