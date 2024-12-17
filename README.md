@@ -69,3 +69,12 @@ I'm currently working at [Inner AI](https://innerai.com), where we develop cutti
 I'm building [Opinio](https://www.opinio.cc/) - A platform that joins review information from various sources into actionable insights.
 
 ![opinio](https://github.com/user-attachments/assets/ec9e1ab3-37eb-4629-99b2-d1dfeec81a98)
+
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/daniel1lima"
+  width="600"
+  height="300"
+/>
+</a>
