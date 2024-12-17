@@ -69,8 +69,3 @@ I'm currently working at [Inner AI](https://innerai.com), where we develop cutti
 I'm building [Opinio](https://www.opinio.cc/) - A platform that joins review information from various sources into actionable insights.
 
 ![opinio](https://github.com/user-attachments/assets/ec9e1ab3-37eb-4629-99b2-d1dfeec81a98)
-
-<div>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daniel1lima&theme=modern-lilac&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DanielLima52&theme=modern-lilac&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
-</div>
