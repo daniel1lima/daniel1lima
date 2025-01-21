@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/-ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" />
 </div>
 
-## 💼 Where I Work
+## 💼 Where I've Worked
 <a href="https://innerai.com" target="_blank">
   <img src="https://img.shields.io/badge/Innerai-00AEEF?style=for-the-badge" alt="Innerai" />
 </a>
