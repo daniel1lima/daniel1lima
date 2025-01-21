@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Innerai-00AEEF?style=for-the-badge" alt="Innerai" />
 </a>
 
-I'm currently working at [Inner AI](https://innerai.com), where we develop cutting-edge AI solutions to make businesses smarter and more efficient.
+[Inner AI](https://innerai.com) develops cutting-edge AI solutions to make businesses smarter and more efficient.
 
 ![gif inner](https://github.com/user-attachments/assets/bb809434-54eb-4bd1-bc00-8c6a3aa24ed1)
 
