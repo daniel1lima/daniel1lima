@@ -70,6 +70,9 @@ I'm building [Opinio](https://www.opinio.cc/) - A platform that joins review inf
 
 ![opinio](https://github.com/user-attachments/assets/ec9e1ab3-37eb-4629-99b2-d1dfeec81a98)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel1lima&repo=opinio-frontend)](https://github.com/daniel1lima/opinio-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel1lima&repo=opinio-services)](https://github.com/daniel1lima/opinio-services)
+
 ***
 
 <a href="https://www.request-app.me/" target="_blank">
@@ -78,5 +81,14 @@ I'm building [Opinio](https://www.opinio.cc/) - A platform that joins review inf
 
 [Request](https://www.request-app.me/) is a platform for DJs to accept requests from the public!
 
-![328E2CC4-1893-413B-A2DE-91D4E02E8D6D_4_5005_c](https://github.com/user-attachments/assets/acd6e645-db29-4c67-b75b-fb55afc1f6cf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daniel1lima&repo=request_web&description=)](https://github.com/daniel1lima/request_web)
+
+
+<div>
+
+  <img width="482" alt="SCR-20250407-lrfn" src="https://github.com/user-attachments/assets/4fea2899-2f36-4761-bc59-7adf8200a058" />
+  <img width="482" alt="SCR-20250407-lrfn" src="https://github.com/user-attachments/assets/1b206cf5-43d2-4011-9f6f-6061f66dab8a" />
+</div>
+
+
 
